@@ -29,7 +29,9 @@ Doing several notebooks with slightly differences between them and checking the 
 - After analysis, I decided to transform only the columns, "waterfront", "view" and "yr_renovated" and treated them as boolean: <br /> 
 | WaterFront | View | Yr_Renovated |
 | :---: | :---: | :---: |
-|![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Waterfront.png)|![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-View.png)|![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Yr_Renovated.png)|
+|5|13|14|
+
+![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Waterfront.png) ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-View.png) ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Yr_Renovated.png)|
   
 - A correlation matrix was also done and since there was no correlation above 0.9, none of columns was dropped:
 
