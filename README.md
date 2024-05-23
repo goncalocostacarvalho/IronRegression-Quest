@@ -15,6 +15,6 @@ Doing several notebooks with slightly differences between them and checking the 
 
 # Results 💥
 
-![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest Results.png)
+![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Results.png)
 
 # Conclusions 💭
