@@ -12,4 +12,4 @@ Develop a machine learning model to predict the house sale prices
 
 ## Approach
 Doing several notebooks with slightly differences between them and checking the results
-In the end I will only present the final results and the last notebook
+\In the end I will only present the final results and the last notebook
