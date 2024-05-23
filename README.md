@@ -41,7 +41,8 @@ Doing several notebooks with slightly differences between them and checking the 
 |![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Boxplot-Outliers.png)|![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Boxplot-NoOutliers.png)|
 
 # Results 💥
-
+- As the image present below, it´s possible to see that several models were used to understand which one fits better the data:
+  
 ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Results.png)
 
 # Conclusions 💭
