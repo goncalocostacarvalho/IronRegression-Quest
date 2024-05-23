@@ -15,7 +15,13 @@ Doing several notebooks with slightly differences between them and checking the 
 
 # Exploring the data 🔍
 
-
+| Function | Output |
+| :---: | :---: |
+| .shape | 21613 rows and 21 columns |
+| .dtypes | 1 categorical column (date), 20 numerical columns (5 as float) |
+| .isnull().sum() | 0 null values |
+| .eq(" ").sum() | 0 empty spaces |
+| .multiplicated().sum() | 0 multiplicate values |
 
 # Results 💥
 
