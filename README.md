@@ -32,9 +32,16 @@ Doing several notebooks with slightly differences between them and checking the 
    ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-View.png)
    ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Yr_Renovated.png)
   
- - A correlation matrix was also done and since there was no correlation above 0.9, none of columns was dropped
+- A correlation matrix was also done and since there was no correlation above 0.9, none of columns was dropped
 
-    
+![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Correlation-Matrix.png) 
+
+- Finally, was ploted boxplots for every columns and took off the results outside the InterQuartile range. Below and example:
+
+| Before | After |
+| :---: | :---: |
+| ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Boxplot-Outliers.png)
+ | ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Boxplot-NoOutliers.png) |
 
 # Results 💥
 
