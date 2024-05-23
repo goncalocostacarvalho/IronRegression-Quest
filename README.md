@@ -27,9 +27,6 @@ Doing several notebooks with slightly differences between them and checking the 
 
 - Part of the EDA was to analyze all the distributions for every column
 - After analysis, I decided to transform only the columns, "waterfront", "view" and "yr_renovated" and treated them as boolean: <br /> 
-| WaterFront | View | Yr_Renovated |
-| :---: | :---: | :---: |
-|5|13|14|
 
 ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Waterfront.png) ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-View.png) ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Yr_Renovated.png)|
   
