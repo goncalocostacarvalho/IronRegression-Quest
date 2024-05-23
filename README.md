@@ -20,8 +20,17 @@ Doing several notebooks with slightly differences between them and checking the 
 | .shape | 21613 rows and 21 columns |
 | .dtypes | 1 categorical column (date), 20 numerical columns (5 as float) |
 | .isnull().sum() | 0 null values |
-| .eq(" ").sum() | 0 empty spaces |
+| .eq(" ").sum() | 0 empty values |
 | .multiplicated().sum() | 0 multiplicate values |
+
+# EDA 📊
+
+- Part of the EDA was to analyze all the distributions for every column
+- After analysis, I decided to transform only this 3 columns and treated them as boolean:
+| waterfront | view | yr_renovated |
+| :---: | :---: | :---: |
+|   |   |   |
+  
 
 # Results 💥
 
