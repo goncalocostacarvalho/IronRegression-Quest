@@ -11,5 +11,4 @@ In this project, it’s provided a dataset (CSV file) of house sale prices for K
 Develop a machine learning model to predict the house sale prices
 
 ## Approach
-Doing several notebooks with slightly differences between them and checking the results
-\In the end I will only present the final results and the last notebook
+Doing several notebooks with slightly differences between them and checking the results <br /> In the end I will only present the final results and the last notebook
