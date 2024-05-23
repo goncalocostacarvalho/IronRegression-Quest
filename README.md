@@ -26,7 +26,7 @@ Doing several notebooks with slightly differences between them and checking the 
 # EDA 📊
 
 - Part of the EDA was to analyze all the distributions for every column
-- After analysis, I decided to transform only this 3 columns and treated them as boolean:
+- After analysis, I decided to transform only this 3 columns and treated them as boolean: <br /> 
 | waterfront | view | yr_renovated |
 | :---: | :---: | :---: |
 | ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Waterfront.png)
