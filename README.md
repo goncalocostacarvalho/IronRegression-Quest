@@ -27,16 +27,15 @@ Doing several notebooks with slightly differences between them and checking the 
 
 - Part of the EDA was to analyze all the distributions for every column
 - After analysis, I decided to transform only the columns, "waterfront", "view" and "yr_renovated" and treated them as boolean: <br /> 
-
- ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Waterfront.png)
-   ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-View.png)
-   ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Yr_Renovated.png)
+| WaterFront | View | Yr_Renovated |
+| :---: | :---: | :---: |
+|![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Waterfront.png)|![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-View.png)|![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Yr_Renovated.png)|
   
 - A correlation matrix was also done and since there was no correlation above 0.9, none of columns was dropped:
 
 ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Correlation-Matrix.png) 
 
-- Finally, was ploted boxplots for every columns and took off the results outside the InterQuartile range. Below and example:
+- Finally, was ploted boxplots for every column and took off the results outside the InterQuartile range. Below and example:
 
 | Before | After |
 | :---: | :---: |
