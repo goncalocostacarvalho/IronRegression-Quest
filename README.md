@@ -12,3 +12,9 @@ Develop a machine learning model to predict the house sale prices
 
 ## Approach <br /> 
 Doing several notebooks with slightly differences between them and checking the results <br /> In the end I will only present the final results and the last notebook
+
+# Results 💥
+
+![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest Results.png)
+
+# Conclusions 💭
