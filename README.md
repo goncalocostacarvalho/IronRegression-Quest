@@ -1,4 +1,4 @@
 # IronRegression-Quest
 Individual Quest based on Supervisied Learning for Ironhack
 
-![](https://github.com/goncalocostacarvalho/API_Project/blob/main/IronRegression-Quest.jpeg)
+![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest.png)
