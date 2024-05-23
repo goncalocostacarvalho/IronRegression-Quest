@@ -18,3 +18,7 @@ Doing several notebooks with slightly differences between them and checking the 
 ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Results.png)
 
 # Conclusions 💭
+
+- Less data doesn't mean a more accurate model
+- Accuracy results doesn't change too much with the data cleaning and featuring engineering
+- XGBoost got the best results suggesting a non linear relationship between features and target
