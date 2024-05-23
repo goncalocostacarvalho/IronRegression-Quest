@@ -29,7 +29,10 @@ Doing several notebooks with slightly differences between them and checking the 
 - After analysis, I decided to transform only this 3 columns and treated them as boolean:
 | waterfront | view | yr_renovated |
 | :---: | :---: | :---: |
-|   |   |   |
+| ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Waterfront.png)
+ | ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-View.png)
+ | ![](https://github.com/goncalocostacarvalho/IronRegression-Quest/blob/main/IronRegression-Quest-Yr_Renovated.png)
+ |
   
 
 # Results 💥
